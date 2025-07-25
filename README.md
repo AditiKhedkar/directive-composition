@@ -32,6 +32,4 @@ ng serve
 - `button.component.ts`: A simple component with one button.
 - `app.component.ts`: Root component.
 
----
 
-Feel free to extend this with more hostDirectives or advanced scenarios like ControlValueAccessor or forms!
